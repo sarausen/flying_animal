@@ -146,12 +146,12 @@ div.ear {
   width: 48%;
   height: 100%;
   border-radius: 8% 50% 50% 50%;
-  background-color: #434343;
+  background-color: #198882; 
   transform: rotate(29deg);
   display: flex;
   position: relative;
   overflow: hidden;
-  box-shadow: inset -2px 0px 12px 6px #2e2e2e;
+  box-shadow: inset -2px 0px 12px 6px #198882;
 }
 
 div.ear:nth-child(2) {
