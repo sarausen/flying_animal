@@ -75,7 +75,7 @@ div.body > .shading {
   left: -3%;
   width: 104%;
   height: 104%;
-  box-shadow: inset -9px 0px #555454, inset -9px 0px 12px 12px #555454;
+  box-shadow: inset -9px 0px #545554, inset -9px 0px 12px 12px #555454;
   mix-blend-mode: overlay;
 }
 
@@ -104,7 +104,7 @@ div.wing {
   height: 100%;
   border-radius: 100% 100% 0% 0%;
   clip-path: polygon(1% 0%, 1% 100%, 7% 88%, 12% 100%, 19% 88%, 29% 100%, 34% 88%, 43% 100%, 51% 88%, 58% 99%, 65% 90%, 72% 99%, 82% 89%, 88% 100%, 94% 89%, 100% 100%, 100% 0%);
-  background-color: #434343;
+  background-color: #9f3b79;
   box-shadow: inset 2px 6px 20px 6px #2e2e2e;
 }
 
@@ -162,7 +162,7 @@ div.ear > .inner-ear {
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: #701724;
+  background-color: #b75665;
   position: absolute;
   box-shadow: inset -2px 0px 12px 6px #f8788b;
 }
