@@ -104,7 +104,7 @@ div.wing {
   height: 100%;
   border-radius: 100% 100% 0% 0%;
   clip-path: polygon(1% 0%, 1% 100%, 7% 88%, 12% 100%, 19% 88%, 29% 100%, 34% 88%, 43% 100%, 51% 88%, 58% 99%, 65% 90%, 72% 99%, 82% 89%, 88% 100%, 94% 89%, 100% 100%, 100% 0%);
-  background-color: #9f3b79;
+  background-color: #434343;
   box-shadow: inset 2px 6px 20px 6px #2e2e2e;
 }
 
