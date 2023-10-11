@@ -61,7 +61,7 @@ div.body {
   width: 60%;
   height: 60%;
   border-radius: 50%;
-  background-color: #434343;
+  background-color: #c2b2b2;
   position: relative;
   top: 25%;
   overflow: hidden;
@@ -162,7 +162,7 @@ div.ear > .inner-ear {
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: #773640;
+  background-color: #701724;
   position: absolute;
   box-shadow: inset -2px 0px 12px 6px #f8788b;
 }
