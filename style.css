@@ -151,7 +151,7 @@ div.ear {
   display: flex;
   position: relative;
   overflow: hidden;
-  box-shadow: inset -2px 0px 12px 6px #198882;
+  box-shadow: inset -2px 0px 12px 6px #108a39;
 }
 
 div.ear:nth-child(2) {
